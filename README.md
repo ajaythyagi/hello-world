@@ -1,2 +1,6 @@
 # hello-world
-My first repository
+
+Hello,
+
+My Name is Ajay and I am just beginning to learn programming. Cheers to a wonderful journey ahead.
+
